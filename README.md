@@ -264,9 +264,6 @@ Relies on prompt engineering
 Demonstrates end-to-end NLP system design
 Combines DL + NLP + translation
 Built with modular pipeline architecture
-📜 License
-
-MIT License
 
 🙌 Acknowledgements
 HuggingFace Transformers
